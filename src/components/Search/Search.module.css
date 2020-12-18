@@ -1,0 +1,19 @@
+
+.search{
+    display: flex;
+}
+.search > input {
+    width: 70%;
+}
+.search > a {
+    display: inline-block;
+    width: 30%;
+    text-decoration: none;
+    color: #fff;
+    background: #000820;
+    text-align: center;
+    transition: all;
+}
+.search > a:hover {
+    background: #011a64;
+}

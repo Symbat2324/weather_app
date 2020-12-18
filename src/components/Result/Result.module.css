@@ -1,0 +1,26 @@
+.result > ul > li{
+    border:1px solid black;
+}
+.style{
+    padding: 0;
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    list-style-type: none;
+
+}
+ .style > li{
+    width: 33%;
+    padding: 3px 3px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.dn {
+    display: none;
+}
+
+.time {
+    width: 100%;
+}
